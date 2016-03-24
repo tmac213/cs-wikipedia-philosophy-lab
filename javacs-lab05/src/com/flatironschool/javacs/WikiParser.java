@@ -39,7 +39,6 @@ public class WikiParser {
 	 * Searches the paragraphs for a valid link.
 	 * 
 	 * Warns if a paragraph ends with unbalanced parentheses.
-	 * @param b 
 	 * 
 	 * @return
 	 */
